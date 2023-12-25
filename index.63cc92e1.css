@@ -1,0 +1,14 @@
+html, body {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  background-color: #baa177;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.63cc92e1.css.map */
